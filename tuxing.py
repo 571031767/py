@@ -1,5 +1,5 @@
-from tkinter import *
-import tkinter.messagebox as messagebox
+from tk import *
+import tk.messagebox as messagebox
 
 class Application(Frame):
     def __init__(self, master=None):

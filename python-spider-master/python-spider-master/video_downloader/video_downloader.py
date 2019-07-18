@@ -1,11 +1,11 @@
 # -*- coding:utf-8 -*-
-from tkinter.filedialog import askdirectory
+from tk.filedialog import askdirectory
 from MyQR.myqr import run
 from urllib import request, parse
 from bs4 import BeautifulSoup
 
-import tkinter.messagebox as msgbox
-import tkinter as tk
+import tk.messagebox as msgbox
+import tk as tk
 import webbrowser
 import re
 import json

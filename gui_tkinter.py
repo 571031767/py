@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
-from tkinter import  *
-import tkinter as tk
+from tk import  *
+import tk as tk
 import  os,pygame,time
 window = Tk()    # 创建窗口对象的背景色
 root = Tk()
